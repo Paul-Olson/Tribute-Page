@@ -1,0 +1,37 @@
+h1 {
+    color: white;
+    text-align: center;
+    padding-top: 4%;
+    padding-bottom: 0px;
+    font-size:75px
+}
+
+
+body {
+    background-image: url("images/coast.jpg");
+    background-repeat: no-repeat;
+    height: 475px;
+    background-position: center;
+    background-color: rgb(8, 20, 13);
+    
+    background-size: cover;
+   }
+
+main {
+    background-color: white;
+    text-align: center;
+    margin-top: 6%;
+    margin: 7%;
+    padding: 5%;
+}
+
+iframe {
+
+    padding: 25px;
+
+}
+
+p {
+
+    padding-bottom: 40px;
+}
